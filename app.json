@@ -1,0 +1,17 @@
+{
+  "name": "DataIncubatorChallenge",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://bitbucket.org/cf-utilities/cf-buildpack-multi/src"
+    }
+  ]
+}
