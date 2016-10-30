@@ -1,5 +1,2 @@
-source "https://rubygems.org"
-ruby "2.2.4"
-
-gem 'thin'
-gem 'sinatra'
+source 'https://rubygems.org'
+gem 'rack'
